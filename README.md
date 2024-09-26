@@ -5,9 +5,11 @@
 <h3 align="center">A passionate student from Turkey</h3>
 <h3 align="left">I am a passionate student interested in cybersecurity, network, backend, and frontend development, with a strong focus on web projects.</h3>
 
-- 🌱 I’m currently learning **Microservices, Spring boot, Spring Cloud, Java**
+- 🌱 I’m currently learning **Microservices, Spring boot, Spring Cloud, Java, Network**
 
 - 📫 Reach me **berdan***@gmail.com**
+
+- 📄 I usually use React and Node.js in my projects.
 
 ## My Projects
 Here are some of my projects along with brief descriptions:
