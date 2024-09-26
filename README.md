@@ -5,7 +5,7 @@
 <h3 align="center">A passionate student from Turkey</h3>
 <h3 align="left">I am a passionate student interested in cybersecurity, network, backend, and frontend development, with a strong focus on web projects.</h3>
 
-- 🌱 I’m currently learning **Microservices, Spring boot, Spring Cloud**
+- 🌱 I’m currently learning **Microservices, Spring boot, Spring Cloud, Java**
 
 - 📫 Reach me **berdan***@gmail.com**
 
