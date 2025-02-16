@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Microservices, Spring boot, Spring Cloud, Java, Network**
 
-- 📫 Reach me **berdan***@gmail.com**
+- 📫 Reach me **berdanercan0099@gmail.com**
 
 - 📄 I usually use React and Node.js in my projects.
 
